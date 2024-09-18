@@ -190,6 +190,8 @@ Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertany
 1. Apa DBMS yang digunakan pada server tersebut?
    Format: string ex. MonggoDB
     > PostgreSQL
+    
+    ![qw](https://github.com/user-attachments/assets/1d3edf38-6daf-4c6b-bcc4-1b3f6f347876)
 
 2. Di port berapa DBMS server tersebut berjalan?
    Format: xxxx ex. 443
@@ -202,22 +204,32 @@ Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertany
 4. Apa credentials username DBMS valid yang digunakan?
    Format: string
     > s1gm4
+    
+    ![qw](https://github.com/user-attachments/assets/a0679c33-35ba-47ab-be6c-3ba9f92840e3)
 
 5. Apa nama database yang digunakan?
    Format: string
     > sigmaskibidigyatrizzzz
+    
+    ![qw](https://github.com/user-attachments/assets/1bd6762c-29f0-4d6d-9b3a-5af38310f2db)
 
 6. Ada berapa banyak users dalam database tersebut?
    Format: number
     > 4
+    
+    ![n](https://github.com/user-attachments/assets/f7619817-f1a3-4169-841b-3a8ae31592ba)
 
 7. Apa email yang digunakan oleh admin?
    Format: email@gmail.com
     > jojohermawan@gmail.com
+    
+    ![n](https://github.com/user-attachments/assets/e1673acb-ba06-48e0-8c9a-f1f43f19a0db)
 
 8. Apa password yang digunakan oleh admin?
    Format: string
     > admin1234
+    
+    ![m](https://github.com/user-attachments/assets/bb91b479-6242-43b1-b158-bffaf95593de)
 
 > Flag: JarkomIT{Gy4tT_M5g_4U_GKIF5Uj2pTWNA42KXarPBk3ra5k1VbXAX8ZcWCHiZWSV4SFlGJNQ5BiD1}
 
