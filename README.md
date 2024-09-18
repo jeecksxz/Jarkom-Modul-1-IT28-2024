@@ -10,6 +10,9 @@
 ## Content
 
 ### Pegawai Negeri Sebelah
+Kamu seorang data analisis diminta untuk memastikan ulang data-data dari beberapa pegawai
+
+nc 10.15.42.60 53000
 
 ![PNS](https://github.com/user-attachments/assets/241ee5b5-50fa-49e6-8ffa-72a73f739d14)
 
