@@ -81,15 +81,18 @@ Setelah memasukkan `nc 10.15.42.60 44000` ke terminal, terdapat beberapa pertany
 1. Apa username pengirim?
    Format: Username
    > jawaban: JaneD03
+   
    ![FTP2](https://github.com/user-attachments/assets/b9d04266-cd38-48b5-b71b-1fcee09b6b79)
 
 2. Apa nama file yang dikirim?
    Format filename.extension
    > jawaban: Clue3.txt
+   
    ![a](https://github.com/user-attachments/assets/a72ea087-eeac-4840-802f-c27dc19da54a)
 
 3. Ikuti petunjuk untuk mendapatkan pesan rahasia
    > jawaban: penword
+   
    ![Cuplikan layar 2024-09-19 011919](https://github.com/user-attachments/assets/9c599742-772c-4746-8d0b-102b8e62aa4c)
    Kemudian di decode dari Base64 sehingga hasilnya adalah `penword`
 
@@ -101,26 +104,31 @@ Setelah memasukkan `nc 10.15.42.60 46000` ke terminal, terdapat beberapa pertany
 1. Apa IP address dari korban?
    Format: xxx.xxx.xxx.xxx
     > 172.21.88.207
+    
     ![f](https://github.com/user-attachments/assets/8058ec62-58c9-4fc4-91a3-0a30e64d0267)
 
 2. Apa port yang digunakan sebagai webserver?
    Format: xxxx: ex. 443
     > 1917
+    
     ![f](https://github.com/user-attachments/assets/2dd00850-a6c9-46e2-9ba0-96ea58044395)
 
 3. Dimana endpoint yang terdapat login?
    Format: /endpoint/path.php
     > /ww1.php
+    
     ![f](https://github.com/user-attachments/assets/44288188-ec7e-486d-9e20-0b06ff22ba80)
 
 4. Tools apa yang digunakan oleh attacker?
    Format: toolsname-version ex. hydra-v9.0-dev
-    > ffuf-v2.1.0-dev 
+    > ffuf-v2.1.0-dev
+    
     ![f](https://github.com/user-attachments/assets/3f2443f9-0453-4e21-9f04-3bf373064a15)
 
 5. Apa kredensial yang berhasil digunakan oleh attacker untuk login?
    Format: username:password
     > Redbaron:fly1ng4c3
+    
     ![w](https://github.com/user-attachments/assets/15fcd61e-d45a-4f32-a340-2d063f095bb6)
 
 > Flag: JarkomIT{d34th_fr0m_th3_sky_Fcjy4bimYXweRsjNT8w9zgfICH1GKhpB8PUtDEYnXmsCjp2XHbczWW1}
@@ -131,16 +139,19 @@ Setelah memasukkan `nc 10.15.42.60 48500` ke terminal, terdapat beberapa pertany
 1. Apa service yang digunakan pada FTP server?
    Format: service ver ex. proFTPd 1.1.0
     > vsFTPd 3.0.3
+    
     ![as](https://github.com/user-attachments/assets/366b8c35-8a2a-44f2-b710-372fb7ee7b24)
 
 2. Apa nama file yang dikirim oleh attacker?
    Format: filename.extension
     > g0tcha.cpp
+    
     ![d](https://github.com/user-attachments/assets/edd90273-5beb-458b-a61d-184c71f614fa)
 
 3. Apa pesan rahasia yang ditinggalkan oleh attacker?
    Format: string ex. h4lo wor1d
     > g0tchu n0w l1ttl3 m0us3
+    
     ![b](https://github.com/user-attachments/assets/90fa296a-3843-4c4b-ac30-7afbfe5c6191)
     
 
@@ -152,6 +163,7 @@ Setelah memasukkan `nc 10.15.42.60 47000` ke terminal, terdapat beberapa pertany
 1. Apa IP address dari attacker?
    Format: xxx.xxx.xxx.xxx
     > 172.21.80.1
+    
     ![q](https://github.com/user-attachments/assets/741fd409-b55a-4afc-bb1f-684e6e635285)
 
 2. Berapa total attempt dari bruteforce attacker?
@@ -161,11 +173,13 @@ Setelah memasukkan `nc 10.15.42.60 47000` ke terminal, terdapat beberapa pertany
 3. Apa nama file yang didownload oleh attacker setelah berhasil login?
    Format: filename.extension
     > Albatros.txt
+    
     ![v](https://github.com/user-attachments/assets/fd91679b-5180-40f4-a4d0-c229865f98b1)
 
 4. Apa isi dari file yang disisipkan oleh attacker?
    Format: string ex. sine sole nihil sum
     > Der Rote Kampfflieger
+    
     ![v](https://github.com/user-attachments/assets/4b25837b-3066-42b8-bef9-21f85be7a3e0)
 
 > Flag: JarkomIT{th3_fly1ng_c1rcus_0f_w4r_zakJr4URtWZbniQyepZj0xrqK5StUTLamJCi5tATTd6pTveEXkXqBACE}
