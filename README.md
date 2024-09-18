@@ -38,6 +38,36 @@ Format: String
 >Jawaban : Benar! Ini flag-mu: JarkomIT{Tum8eN_p45SnYa_Ku4t_B1aS4Nya_N3A9jnIprJGJrdx4R1O9alr9sL3mXJ1G1KVH8mFFcpptu1ezhPulM4h}
 
 
-### 
+### FTP LOGIN
+Seseorang menemukan sebuah celah dalam sebuah server. Ia mencoba untuk melakukan brute force login dan ia berhasil masuk. Lakukan pemeriksaan untuk melihat apa yang dilakukan oleh orang tersebut!
+nc 10.15.42.60 49000 
+
+Apa username yang berhasil digunakan untuk FTP login?
+Format: username
+> sn34ky
+
+Apa password yang berhasil digunakan untuk FTP login?
+Format: string
+> sup3rsn1ff3r
+![FTP LOGIN](https://github.com/user-attachments/assets/650d2afa-41ac-403c-a1f0-514fd201f7f5)
+
+> Benar! Ini flag-mu: JarkomIT{n0t_s0_s3cur3_ftp_ViBfewQD7HaaYfe2DPHec0XStL06tJKa0iNpX9KXCfevKuOkkDXXG1N}
+
+###EZ
+Aku sedang mencoba bikin chat service tapi kayanya pesannya bisa di sniffing deh? coba temukan pesannya.
+nc 10.15.42.60 54000
+
+Temukan jawaban dari log tersebut
+Format: string ex. kata kata
+> jawabannya jawaban
+
+Port berapa yang digunakan service tersebut
+Format: xxxx: ex. 443
+![EZ](https://github.com/user-attachments/assets/66f3f4ee-a4e5-4d8d-b194-139979f3e3d3)
+> 1234
+> Benar! Ini flag-mu: JarkomIT{BiAr_aman_Pake_sSh_hpu14J3zRLaRxbznIQywbdINW3ztho0kZAdBvDBJOWrcGfHFfs2FEZ}
+
+
+
 
 
