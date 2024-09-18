@@ -61,9 +61,9 @@ Temukan jawaban dari log tersebut
 Format: string ex. kata kata
 > jawabannya jawaban
 
+![EZ](https://github.com/user-attachments/assets/66f3f4ee-a4e5-4d8d-b194-139979f3e3d3)
 Port berapa yang digunakan service tersebut
 Format: xxxx: ex. 443
-![EZ](https://github.com/user-attachments/assets/66f3f4ee-a4e5-4d8d-b194-139979f3e3d3)
 > 1234
 > Benar! Ini flag-mu: JarkomIT{BiAr_aman_Pake_sSh_hpu14J3zRLaRxbznIQywbdINW3ztho0kZAdBvDBJOWrcGfHFfs2FEZ}
 
