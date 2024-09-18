@@ -76,6 +76,120 @@ Format: xxxx: ex. 443
 > Benar! Ini flag-mu: JarkomIT{BiAr_aman_Pake_sSh_hpu14J3zRLaRxbznIQywbdINW3ztho0kZAdBvDBJOWrcGfHFfs2FEZ}
 
 
+### Advance Sanity Check
+Setelah memasukkan `nc 10.15.42.60 44000` ke terminal, terdapat beberapa pertanyaan:
+1. Apa username pengirim?
+   Format: Username
+   > jawaban: JaneD03
+
+2. Apa nama file yang dikirim?
+   Format filename.extension
+   > jawaban: Clue3.txt
+
+3. Ikuti petunjuk untuk mendapatkan pesan rahasia
+   > jawaban: penword
+
+>Flag: JarkomIT{8uK4n_S4n1ty_b1a5A_yEdRj09BR4vCks0pC1iAeXOljSu5uBIpD3ZaiFZTDMl6BscdbzwpXIKK}
+
+
+### Illegal Breakthrough
+Setelah memasukkan `nc 10.15.42.60 46000` ke terminal, terdapat beberapa pertanyaan:
+1. Apa IP address dari korban?
+   Format: xxx.xxx.xxx.xxx
+    > 172.21.88.207     
+
+2. Apa port yang digunakan sebagai webserver?
+   Format: xxxx: ex. 443
+    > 1917
+
+3. Dimana endpoint yang terdapat login?
+   Format: /endpoint/path.php
+    > /ww1.php
+
+4. Tools apa yang digunakan oleh attacker?
+   Format: toolsname-version ex. hydra-v9.0-dev
+    > ffuf-v2.1.0-dev 
+
+5. Apa kredensial yang berhasil digunakan oleh attacker untuk login?
+   Format: username:password
+    > Redbaron:fly1ng4c3
+
+> Flag: JarkomIT{d34th_fr0m_th3_sky_Fcjy4bimYXweRsjNT8w9zgfICH1GKhpB8PUtDEYnXmsCjp2XHbczWW1}
+
+
+### Surprise 
+Setelah memasukkan `nc 10.15.42.60 48500` ke terminal, terdapat beberapa pertanyaan:
+1. Apa service yang digunakan pada FTP server?
+   Format: service ver ex. proFTPd 1.1.0
+    > vsFTPd 3.0.3
+
+2. Apa nama file yang dikirim oleh attacker?
+   Format: filename.extension
+    > g0tcha.cpp
+
+3. Apa pesan rahasia yang ditinggalkan oleh attacker?
+   Format: string ex. h4lo wor1d
+    > g0tchu n0w l1ttl3 m0us3
+
+> Flag: JarkomIT{l1ttl3_m0us3_1n_th3_h0us3_Yk9Y8LcLDGxNJItaKOTNVAVQCG08z4VgD1El4jjeKbJKqK9K8U9oTCHU}
+
+
+### Packets Barrage
+Setelah memasukkan `nc 10.15.42.60 47000` ke terminal, terdapat beberapa pertanyaan:
+1. Apa IP address dari attacker?
+   Format: xxx.xxx.xxx.xxx
+    > 172.21.80.1
+
+2. Berapa total attempt dari bruteforce attacker?
+   Format: number
+    > 1917
+
+3. Apa nama file yang didownload oleh attacker setelah berhasil login?
+   Format: filename.extension
+    > Albatros.txt
+
+4. Apa isi dari file yang disisipkan oleh attacker?
+   Format: string ex. sine sole nihil sum
+    > Der Rote Kampfflieger
+
+> Flag: JarkomIT{th3_fly1ng_c1rcus_0f_w4r_zakJr4URtWZbniQyepZj0xrqK5StUTLamJCi5tATTd6pTveEXkXqBACE}
+
+
+### Gajah Terbang
+Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertanyaan:
+1. Apa DBMS yang digunakan pada server tersebut?
+Format: string ex. MonggoDB
+> PostgreSQL
+
+2. Di port berapa DBMS server tersebut berjalan?
+   Format: xxxx ex. 443
+    > 6969
+
+3. OS apa yang digunakan untuk server tersebut?
+   Format: string ex. linux
+    > Debian
+
+4. Apa credentials username DBMS valid yang digunakan?
+   Format: string
+    > s1gm4
+
+5. Apa nama database yang digunakan?
+   Format: string
+    > sigmaskibidigyatrizzzz
+
+6. Ada berapa banyak users dalam database tersebut?
+   Format: number
+    > 4
+
+7. Apa email yang digunakan oleh admin?
+   Format: email@gmail.com
+    > jojohermawan@gmail.com
+
+8. Apa password yang digunakan oleh admin?
+   Format: string
+    > admin1234
+
+> Flag: JarkomIT{Gy4tT_M5g_4U_GKIF5Uj2pTWNA42KXarPBk3ra5k1VbXAX8ZcWCHiZWSV4SFlGJNQ5BiD1}
 
 
 
