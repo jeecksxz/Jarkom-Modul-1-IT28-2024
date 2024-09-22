@@ -243,3 +243,91 @@ Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertany
 ```
 
 
+## Corporate Breach
+Setelah memasukkan `nc 10.15.42.60 51000` ke terminal, terdapat beberapa pertanyaan:
+1. Siapa nama attacker?
+   Format: string
+    > Nakhimov
+
+2. Apa email yang digunakan untuk login?
+   Format: email@gmail.com
+    > jarkomsupport@gmail.com          
+
+3. Apa password yang digunakan untuk login?
+   Format: string
+    > j4rk0mg4c0rbg
+```
+> Flag: JarkomIT{supp0rt_k0k_l3m4h_bg_fH9URn8RFHBqmBD2Bm8xuvBHRG6BETVBmm6jGxOnr6Pffc6SHQIDG6}
+```
+
+
+## Rizzset
+Setelah memasukkan `nc 10.15.42.60 59500` ke terminal, terdapat beberapa pertanyaan:
+1. Apa nama domain dari dns query pada log?
+   Format: www.domain.com
+    > www.its.ac.id
+
+2. Berapa IP dari domain tersebut?
+   Format: xxx.xxx.xxx.xxx
+    > 103.94.189.5
+
+3. Tuliskan JARM Fingerprint yang dihasilkan dari domain tersebut
+   Format: string
+   ex. abcdef0123456789abcdef0123456789abcdef0123456789abcdef01234567
+    > 2ad2ad16d2ad2ad22c2ad2ad2ad2ad74aaecca9f9c4a3303863dfee62b241e
+```
+> Flag: JarkomIT{Dn5_C0rR34t10n_xriKpucsqRXp12XJ1JotbPpanr1zZLLcWEi72PyhYsg8jMTDVNn1Jh1T5} 
+```
+
+
+## Malicious Code
+Setelah memasukkan `nc 10.15.42.60 52000` ke terminal, terdapat beberapa pertanyaan:
+1. Berapa total attempt attacker melakukan dir listing?
+   Format: number
+    > 52
+
+2. Apa endpoint yang berhasil attacker dapatkan untuk login page?
+   Format: /endpoint/path.php
+    > /index.php
+
+3. Pada attempt ke berapa attacker menemukan email dan password yang benar?
+   Format: number
+    > 153
+
+4. Apa jawaban dari pertanyaan sang attacker?
+   Format: string
+    > merah
+```
+> Flag: JarkomIT{s3cr3t_m3ss4ge_fr0m_4uth0r_4AOwEpWJ1orJLG4LTMFqrbBYDC0mpBv9TES06O1VAF9QTiqpS6ftL0R} 
+```
+
+
+## Gajah Terbang (Attacker Recon)
+Setelah memasukkan `nc 10.15.42.60 62000` ke terminal, terdapat beberapa pertanyaan:
+1. Akun apa yang dimiliki oleh penyerang dalam database tersebut, berikan emailnya!
+   Format: user@gmail.com
+    > kuntoajiisrillll@gmail.com
+
+2. Apa password yang digunakan oleh penyerang?
+   Format: string
+    > kissme
+
+3. Pada tanggal berapa akun penyerang diban?
+   Format:  YYYY-MM-DD
+   ex. 1945-08-17
+    > 2024-06-09
+
+4. Table apa saja yang dimodifikasi oleh penyerang?
+   Format: string dan string
+    > users dan banned_users
+
+5. Barang apa saja yang telah dibeli oleh penyerang?
+   Format: string dan string
+    > rokok dan es krim
+
+6. Berapa total transaksi dari barang yang dibeli oleh penyerang?
+   Format: number
+    > 24500
+```
+Flag: JarkomIT{G4jaH_K0k_t3RbaNG_6M1foskk5Gh9poxHHNJavpWYuYntx8SoLYVniUcVLZaqdgciE7XqGKt5} 
+```
