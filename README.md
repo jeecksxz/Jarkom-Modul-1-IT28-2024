@@ -233,8 +233,8 @@ Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertany
     ![m](https://github.com/user-attachments/assets/bb91b479-6242-43b1-b158-bffaf95593de)
     Kemudian di decrypt dari Md5 sehingga hasilnya adalah `admin1234`
 
-```
-> Flag: JarkomIT{Gy4tT_M5g_4U_GKIF5Uj2pTWNA42KXarPBk3ra5k1VbXAX8ZcWCHiZWSV4SFlGJNQ5BiD1}
-```
+   ```
+   > Flag: JarkomIT{Gy4tT_M5g_4U_GKIF5Uj2pTWNA42KXarPBk3ra5k1VbXAX8ZcWCHiZWSV4SFlGJNQ5BiD1}
+   ```
 
 
