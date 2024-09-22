@@ -252,13 +252,20 @@ Setelah memasukkan `nc 10.15.42.60 51000` ke terminal, terdapat beberapa pertany
 
    ![CB1](https://github.com/user-attachments/assets/a272d13b-d7d2-448a-ad5b-4220d6d7a0c6)
 
-3. Apa email yang digunakan untuk login?
-   Format: email@gmail.com
-    > jarkomsupport@gmail.com          
 
-4. Apa password yang digunakan untuk login?
+2. Apa email yang digunakan untuk login?
+   Format: email@gmail.com
+    > jarkomsupport@gmail.com
+    
+   ![CB2](https://github.com/user-attachments/assets/5ff0c616-3fea-433b-9a06-c075c3e5ef6d)
+ 
+
+3. Apa password yang digunakan untuk login?
    Format: string
     > j4rk0mg4c0rbg
+    
+   ![CB3](https://github.com/user-attachments/assets/4d4dec6e-82b4-41c2-a026-f3741fc79caa)
+
 ```
 > Flag: JarkomIT{supp0rt_k0k_l3m4h_bg_fH9URn8RFHBqmBD2Bm8xuvBHRG6BETVBmm6jGxOnr6Pffc6SHQIDG6}
 ```
