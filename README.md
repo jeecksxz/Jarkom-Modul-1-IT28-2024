@@ -11,7 +11,8 @@
 
 ## Pegawai Negeri Sebelah
 Kamu seorang data analisis diminta untuk memastikan ulang data-data dari beberapa pegawai
-nc 10.15.42.60 53000
+
+`nc 10.15.42.60 53000`
 
 ![PNS](https://github.com/user-attachments/assets/241ee5b5-50fa-49e6-8ffa-72a73f739d14)
 
@@ -43,7 +44,8 @@ nc 10.15.42.60 53000
 
 ## FTP LOGIN
 Seseorang menemukan sebuah celah dalam sebuah server. Ia mencoba untuk melakukan brute force login dan ia berhasil masuk. Lakukan pemeriksaan untuk melihat apa yang dilakukan oleh orang tersebut!
-nc 10.15.42.60 49000 
+
+`nc 10.15.42.60 49000`
 
 1. Apa username yang berhasil digunakan untuk FTP login?
    Format: username
@@ -61,7 +63,8 @@ nc 10.15.42.60 49000
 
 ## EZ
 Aku sedang mencoba bikin chat service tapi kayanya pesannya bisa di sniffing deh? coba temukan pesannya.
-nc 10.15.42.60 54000
+
+`nc 10.15.42.60 54000`
 
 1. Temukan jawaban dari log tersebut
    Format: string ex. kata kata
