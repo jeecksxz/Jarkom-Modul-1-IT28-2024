@@ -335,7 +335,7 @@ Setelah memasukkan `nc 10.15.42.60 62000` ke terminal, terdapat beberapa pertany
    Format: string
     > kissme
     
-   ![GTAR2 1](https://github.com/user-attachments/assets/71255bbe-aa38-4176-af72-2f47ed6879f4)
+   ![GTAR2 1](https://github.com/user-attachments/assets/3a70e840-d0f2-4b22-84b9-118f8fe9f2f9)
    ![GTAR2 2](https://github.com/user-attachments/assets/a6d0eb8d-6b88-490a-af4d-154df2d47956)
 
 3. Pada tanggal berapa akun penyerang diban?
