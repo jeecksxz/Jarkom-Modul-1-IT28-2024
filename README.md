@@ -250,11 +250,13 @@ Setelah memasukkan `nc 10.15.42.60 51000` ke terminal, terdapat beberapa pertany
    Format: string
     > Nakhimov
 
-2. Apa email yang digunakan untuk login?
+   ![CB1](https://github.com/user-attachments/assets/a272d13b-d7d2-448a-ad5b-4220d6d7a0c6)
+
+3. Apa email yang digunakan untuk login?
    Format: email@gmail.com
     > jarkomsupport@gmail.com          
 
-3. Apa password yang digunakan untuk login?
+4. Apa password yang digunakan untuk login?
    Format: string
     > j4rk0mg4c0rbg
 ```
