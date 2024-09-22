@@ -252,14 +252,12 @@ Setelah memasukkan `nc 10.15.42.60 51000` ke terminal, terdapat beberapa pertany
 
    ![CB1](https://github.com/user-attachments/assets/a272d13b-d7d2-448a-ad5b-4220d6d7a0c6)
 
-
 2. Apa email yang digunakan untuk login?
    Format: email@gmail.com
     > jarkomsupport@gmail.com
     
    ![CB2](https://github.com/user-attachments/assets/5ff0c616-3fea-433b-9a06-c075c3e5ef6d)
  
-
 3. Apa password yang digunakan untuk login?
    Format: string
     > j4rk0mg4c0rbg
@@ -276,15 +274,22 @@ Setelah memasukkan `nc 10.15.42.60 59500` ke terminal, terdapat beberapa pertany
 1. Apa nama domain dari dns query pada log?
    Format: www.domain.com
     > www.its.ac.id
+    
+   ![rizz1](https://github.com/user-attachments/assets/e4394962-01f7-4517-813f-23220633c482)
 
 2. Berapa IP dari domain tersebut?
    Format: xxx.xxx.xxx.xxx
     > 103.94.189.5
+    
+   ![rizz2](https://github.com/user-attachments/assets/0bb0162a-3edf-4e5c-acd5-4effdd1d6249)
 
 3. Tuliskan JARM Fingerprint yang dihasilkan dari domain tersebut
    Format: string
    ex. abcdef0123456789abcdef0123456789abcdef0123456789abcdef01234567
     > 2ad2ad16d2ad2ad22c2ad2ad2ad2ad74aaecca9f9c4a3303863dfee62b241e
+    
+   ![rizz3](https://github.com/user-attachments/assets/bb67e492-a44f-4548-b77f-7456f227e3b2)
+
 ```
 > Flag: JarkomIT{Dn5_C0rR34t10n_xriKpucsqRXp12XJ1JotbPpanr1zZLLcWEi72PyhYsg8jMTDVNn1Jh1T5} 
 ```
@@ -299,6 +304,8 @@ Setelah memasukkan `nc 10.15.42.60 52000` ke terminal, terdapat beberapa pertany
 2. Apa endpoint yang berhasil attacker dapatkan untuk login page?
    Format: /endpoint/path.php
     > /index.php
+    
+   ![MC2](https://github.com/user-attachments/assets/6ddbbc5c-0d2f-422e-a480-e1c406f90301)
 
 3. Pada attempt ke berapa attacker menemukan email dan password yang benar?
    Format: number
@@ -307,6 +314,9 @@ Setelah memasukkan `nc 10.15.42.60 52000` ke terminal, terdapat beberapa pertany
 4. Apa jawaban dari pertanyaan sang attacker?
    Format: string
     > merah
+   ![MC4 1](https://github.com/user-attachments/assets/ae54ab46-b573-462a-a0de-141116d1ac3d)
+   ![MC4 2](https://github.com/user-attachments/assets/01121768-4efc-4ac4-a635-82cfb4c074e8)
+
 ```
 > Flag: JarkomIT{s3cr3t_m3ss4ge_fr0m_4uth0r_4AOwEpWJ1orJLG4LTMFqrbBYDC0mpBv9TES06O1VAF9QTiqpS6ftL0R} 
 ```
@@ -317,27 +327,41 @@ Setelah memasukkan `nc 10.15.42.60 62000` ke terminal, terdapat beberapa pertany
 1. Akun apa yang dimiliki oleh penyerang dalam database tersebut, berikan emailnya!
    Format: user@gmail.com
     > kuntoajiisrillll@gmail.com
+    
+   ![GTAR1](https://github.com/user-attachments/assets/9b8ea388-9a30-48fe-af24-4f61b3d352f5)
 
 2. Apa password yang digunakan oleh penyerang?
    Format: string
     > kissme
+    
+   ![GTAR2 1](https://github.com/user-attachments/assets/71255bbe-aa38-4176-af72-2f47ed6879f4)
+   ![GTAR2 2](https://github.com/user-attachments/assets/a6d0eb8d-6b88-490a-af4d-154df2d47956)
 
 3. Pada tanggal berapa akun penyerang diban?
    Format:  YYYY-MM-DD
    ex. 1945-08-17
     > 2024-06-09
+    
+   ![GTAR3](https://github.com/user-attachments/assets/c46ea1a6-3fe3-41aa-802e-32378382cc11)
 
 4. Table apa saja yang dimodifikasi oleh penyerang?
    Format: string dan string
     > users dan banned_users
+    
+   ![GTAR4 1](https://github.com/user-attachments/assets/61383ece-22c8-480f-aa0d-1b32c8478f95)
 
 5. Barang apa saja yang telah dibeli oleh penyerang?
    Format: string dan string
     > rokok dan es krim
+    
+   ![GTAR5](https://github.com/user-attachments/assets/1d9046a3-32df-403c-bdf7-1d2a5a956edb)
 
 6. Berapa total transaksi dari barang yang dibeli oleh penyerang?
    Format: number
     > 24500
+    
+   ![GTAR6](https://github.com/user-attachments/assets/65acaab2-179e-4f27-8ad3-49255572be49)
+
 ```
 Flag: JarkomIT{G4jaH_K0k_t3RbaNG_6M1foskk5Gh9poxHHNJavpWYuYntx8SoLYVniUcVLZaqdgciE7XqGKt5} 
 ```
