@@ -243,6 +243,7 @@ Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertany
 ```
 
 
+# Revisi
 ## Corporate Breach
 Setelah memasukkan `nc 10.15.42.60 51000` ke terminal, terdapat beberapa pertanyaan:
 1. Siapa nama attacker?
