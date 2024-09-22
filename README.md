@@ -7,9 +7,9 @@
 | Syela Zeruya Tandi Lalong | 5027231076 |
 
 
-## Content
+# Content
 
-### Pegawai Negeri Sebelah
+## Pegawai Negeri Sebelah
 Kamu seorang data analisis diminta untuk memastikan ulang data-data dari beberapa pegawai
 
 nc 10.15.42.60 53000
@@ -41,7 +41,7 @@ Format: String
 >Jawaban : Benar! Ini flag-mu: JarkomIT{Tum8eN_p45SnYa_Ku4t_B1aS4Nya_N3A9jnIprJGJrdx4R1O9alr9sL3mXJ1G1KVH8mFFcpptu1ezhPulM4h}
 
 
-### FTP LOGIN
+## FTP LOGIN
 Seseorang menemukan sebuah celah dalam sebuah server. Ia mencoba untuk melakukan brute force login dan ia berhasil masuk. Lakukan pemeriksaan untuk melihat apa yang dilakukan oleh orang tersebut!
 nc 10.15.42.60 49000 
 
@@ -59,7 +59,7 @@ Format: string
 > Benar! Ini flag-mu: JarkomIT{n0t_s0_s3cur3_ftp_ViBfewQD7HaaYfe2DPHec0XStL06tJKa0iNpX9KXCfevKuOkkDXXG1N}
 
 
-### EZ
+## EZ
 Aku sedang mencoba bikin chat service tapi kayanya pesannya bisa di sniffing deh? coba temukan pesannya.
 nc 10.15.42.60 54000
 
@@ -77,7 +77,7 @@ Format: xxxx: ex. 443
 > Benar! Ini flag-mu: JarkomIT{BiAr_aman_Pake_sSh_hpu14J3zRLaRxbznIQywbdINW3ztho0kZAdBvDBJOWrcGfHFfs2FEZ}
 
 
-### Advance Sanity Check
+## Advance Sanity Check
 Setelah memasukkan `nc 10.15.42.60 44000` ke terminal, terdapat beberapa pertanyaan:
 1. Apa username pengirim?
    Format: Username
@@ -100,7 +100,7 @@ Setelah memasukkan `nc 10.15.42.60 44000` ke terminal, terdapat beberapa pertany
 >Flag: JarkomIT{8uK4n_S4n1ty_b1a5A_yEdRj09BR4vCks0pC1iAeXOljSu5uBIpD3ZaiFZTDMl6BscdbzwpXIKK}
 
 
-### Illegal Breakthrough
+## Illegal Breakthrough
 Setelah memasukkan `nc 10.15.42.60 46000` ke terminal, terdapat beberapa pertanyaan:
 1. Apa IP address dari korban?
    Format: xxx.xxx.xxx.xxx
@@ -135,7 +135,7 @@ Setelah memasukkan `nc 10.15.42.60 46000` ke terminal, terdapat beberapa pertany
 > Flag: JarkomIT{d34th_fr0m_th3_sky_Fcjy4bimYXweRsjNT8w9zgfICH1GKhpB8PUtDEYnXmsCjp2XHbczWW1}
 
 
-### Surprise 
+## Surprise 
 Setelah memasukkan `nc 10.15.42.60 48500` ke terminal, terdapat beberapa pertanyaan:
 1. Apa service yang digunakan pada FTP server?
    Format: service ver ex. proFTPd 1.1.0
@@ -159,7 +159,7 @@ Setelah memasukkan `nc 10.15.42.60 48500` ke terminal, terdapat beberapa pertany
 > Flag: JarkomIT{l1ttl3_m0us3_1n_th3_h0us3_Yk9Y8LcLDGxNJItaKOTNVAVQCG08z4VgD1El4jjeKbJKqK9K8U9oTCHU}
 
 
-### Packets Barrage
+## Packets Barrage
 Setelah memasukkan `nc 10.15.42.60 47000` ke terminal, terdapat beberapa pertanyaan:
 1. Apa IP address dari attacker?
    Format: xxx.xxx.xxx.xxx
@@ -186,7 +186,7 @@ Setelah memasukkan `nc 10.15.42.60 47000` ke terminal, terdapat beberapa pertany
 > Flag: JarkomIT{th3_fly1ng_c1rcus_0f_w4r_zakJr4URtWZbniQyepZj0xrqK5StUTLamJCi5tATTd6pTveEXkXqBACE}
 
 
-### Gajah Terbang
+## Gajah Terbang
 Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertanyaan:
 1. Apa DBMS yang digunakan pada server tersebut?
    Format: string ex. MonggoDB
