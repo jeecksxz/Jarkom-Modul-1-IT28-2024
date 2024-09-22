@@ -9,7 +9,7 @@
 
 ## Content
 
-## Pegawai Negeri Sebelah
+### Pegawai Negeri Sebelah
 Kamu seorang data analisis diminta untuk memastikan ulang data-data dari beberapa pegawai
 
 nc 10.15.42.60 53000
