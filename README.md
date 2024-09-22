@@ -314,6 +314,7 @@ Setelah memasukkan `nc 10.15.42.60 52000` ke terminal, terdapat beberapa pertany
 4. Apa jawaban dari pertanyaan sang attacker?
    Format: string
     > merah
+    
    ![MC4 1](https://github.com/user-attachments/assets/ae54ab46-b573-462a-a0de-141116d1ac3d)
    ![MC4 2](https://github.com/user-attachments/assets/01121768-4efc-4ac4-a635-82cfb4c074e8)
 
