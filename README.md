@@ -154,10 +154,10 @@ Setelah memasukkan `nc 10.15.42.60 48500` ke terminal, terdapat beberapa pertany
     > g0tchu n0w l1ttl3 m0us3
     
     ![b](https://github.com/user-attachments/assets/90fa296a-3843-4c4b-ac30-7afbfe5c6191)
-    
-
+   
+```
 > Flag: JarkomIT{l1ttl3_m0us3_1n_th3_h0us3_Yk9Y8LcLDGxNJItaKOTNVAVQCG08z4VgD1El4jjeKbJKqK9K8U9oTCHU}
-
+```
 
 ## Packets Barrage
 Setelah memasukkan `nc 10.15.42.60 47000` ke terminal, terdapat beberapa pertanyaan:
@@ -182,6 +182,7 @@ Setelah memasukkan `nc 10.15.42.60 47000` ke terminal, terdapat beberapa pertany
     > Der Rote Kampfflieger
     
     ![v](https://github.com/user-attachments/assets/4b25837b-3066-42b8-bef9-21f85be7a3e0)
+   
 ```
 > Flag: JarkomIT{th3_fly1ng_c1rcus_0f_w4r_zakJr4URtWZbniQyepZj0xrqK5StUTLamJCi5tATTd6pTveEXkXqBACE}
 ```
@@ -233,8 +234,8 @@ Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertany
     ![m](https://github.com/user-attachments/assets/bb91b479-6242-43b1-b158-bffaf95593de)
     Kemudian di decrypt dari Md5 sehingga hasilnya adalah `admin1234`
 
-   ```
-   > Flag: JarkomIT{Gy4tT_M5g_4U_GKIF5Uj2pTWNA42KXarPBk3ra5k1VbXAX8ZcWCHiZWSV4SFlGJNQ5BiD1}
-   ```
+```
+> Flag: JarkomIT{Gy4tT_M5g_4U_GKIF5Uj2pTWNA42KXarPBk3ra5k1VbXAX8ZcWCHiZWSV4SFlGJNQ5BiD1}
+```
 
 
