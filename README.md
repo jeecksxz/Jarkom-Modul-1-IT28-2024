@@ -11,70 +11,69 @@
 
 ## Pegawai Negeri Sebelah
 Kamu seorang data analisis diminta untuk memastikan ulang data-data dari beberapa pegawai
-
 nc 10.15.42.60 53000
 
 ![PNS](https://github.com/user-attachments/assets/241ee5b5-50fa-49e6-8ffa-72a73f739d14)
 
-Siapa yang memiliki password nNnM%coQuF?
-Format: String
-> Jawaban : Vero Tampubolon
+1. Siapa yang memiliki password nNnM%coQuF?
+   Format: String
+   > Jawaban : Vero Tampubolon
 
+   ![PNS 2](https://github.com/user-attachments/assets/3c18d432-4c49-48b6-ba49-7a088404b677)
+   
+2. Apa jabatan dari Taufan Kuswandari?
+   Format: String
+   > Jawaban : Analis Kebijakan
 
-![PNS 2](https://github.com/user-attachments/assets/3c18d432-4c49-48b6-ba49-7a088404b677)
-Apa jabatan dari Taufan Kuswandari?
-Format: String
-> Jawaban : Analis Kebijakan
+   ![PNS 3](https://github.com/user-attachments/assets/f2d152ce-4ad7-4b26-97eb-32b8629246f2)
 
+3. Siapa yang paling awal di list?
+   Format: String
+   > Jawaban : Cici Mustofa
 
-![PNS 3](https://github.com/user-attachments/assets/f2d152ce-4ad7-4b26-97eb-32b8629246f2)
-Siapa yang paling awal di list?
-Format: String
-> Jawaban : Cici Mustofa
+   ![PNS 4](https://github.com/user-attachments/assets/1d4ff442-d834-4a20-8f15-54927ae359fd)
 
-
-![PNS 4](https://github.com/user-attachments/assets/1d4ff442-d834-4a20-8f15-54927ae359fd)
-Apa password paling akhir dari list?
-Format: String
-> jawaban : RyxaJPv^yF
-
+4. Apa password paling akhir dari list?
+   Format: String
+   > jawaban : RyxaJPv^yF
+```
 >Jawaban : Benar! Ini flag-mu: JarkomIT{Tum8eN_p45SnYa_Ku4t_B1aS4Nya_N3A9jnIprJGJrdx4R1O9alr9sL3mXJ1G1KVH8mFFcpptu1ezhPulM4h}
+```
 
 
 ## FTP LOGIN
 Seseorang menemukan sebuah celah dalam sebuah server. Ia mencoba untuk melakukan brute force login dan ia berhasil masuk. Lakukan pemeriksaan untuk melihat apa yang dilakukan oleh orang tersebut!
 nc 10.15.42.60 49000 
 
+1. Apa username yang berhasil digunakan untuk FTP login?
+   Format: username
+   > sn34ky
 
-Apa username yang berhasil digunakan untuk FTP login?
-Format: username
-> sn34ky
-
-
-Apa password yang berhasil digunakan untuk FTP login?
-Format: string
-> sup3rsn1ff3r
-![FTP LOGIN](https://github.com/user-attachments/assets/650d2afa-41ac-403c-a1f0-514fd201f7f5)
-
+2. Apa password yang berhasil digunakan untuk FTP login?
+   Format: string
+   > sup3rsn1ff3r
+   
+   ![FTP LOGIN](https://github.com/user-attachments/assets/650d2afa-41ac-403c-a1f0-514fd201f7f5)
+```
 > Benar! Ini flag-mu: JarkomIT{n0t_s0_s3cur3_ftp_ViBfewQD7HaaYfe2DPHec0XStL06tJKa0iNpX9KXCfevKuOkkDXXG1N}
+```
 
 
 ## EZ
 Aku sedang mencoba bikin chat service tapi kayanya pesannya bisa di sniffing deh? coba temukan pesannya.
 nc 10.15.42.60 54000
 
+1. Temukan jawaban dari log tersebut
+   Format: string ex. kata kata
+   > jawabannya jawaban
 
-Temukan jawaban dari log tersebut
-Format: string ex. kata kata
-> jawabannya jawaban
-
-
-![EZ](https://github.com/user-attachments/assets/66f3f4ee-a4e5-4d8d-b194-139979f3e3d3)
-Port berapa yang digunakan service tersebut
-Format: xxxx: ex. 443
-> 1234
-
+   ![EZ](https://github.com/user-attachments/assets/66f3f4ee-a4e5-4d8d-b194-139979f3e3d3)
+2. Port berapa yang digunakan service tersebut
+   Format: xxxx: ex. 443
+   > 1234
+```
 > Benar! Ini flag-mu: JarkomIT{BiAr_aman_Pake_sSh_hpu14J3zRLaRxbznIQywbdINW3ztho0kZAdBvDBJOWrcGfHFfs2FEZ}
+```
 
 
 ## Advance Sanity Check
@@ -96,8 +95,9 @@ Setelah memasukkan `nc 10.15.42.60 44000` ke terminal, terdapat beberapa pertany
    
    ![Cuplikan layar 2024-09-19 011919](https://github.com/user-attachments/assets/9c599742-772c-4746-8d0b-102b8e62aa4c)
    Kemudian di decode dari Base64 sehingga hasilnya adalah `penword`
-
+```
 >Flag: JarkomIT{8uK4n_S4n1ty_b1a5A_yEdRj09BR4vCks0pC1iAeXOljSu5uBIpD3ZaiFZTDMl6BscdbzwpXIKK}
+```
 
 
 ## Illegal Breakthrough
@@ -132,8 +132,9 @@ Setelah memasukkan `nc 10.15.42.60 46000` ke terminal, terdapat beberapa pertany
     
     ![w](https://github.com/user-attachments/assets/15fcd61e-d45a-4f32-a340-2d063f095bb6)
 
+```
 > Flag: JarkomIT{d34th_fr0m_th3_sky_Fcjy4bimYXweRsjNT8w9zgfICH1GKhpB8PUtDEYnXmsCjp2XHbczWW1}
-
+```
 
 ## Surprise 
 Setelah memasukkan `nc 10.15.42.60 48500` ke terminal, terdapat beberapa pertanyaan:
