@@ -191,7 +191,7 @@ Setelah memasukkan `nc 10.15.42.60 47000` ke terminal, terdapat beberapa pertany
 > Flag: JarkomIT{th3_fly1ng_c1rcus_0f_w4r_zakJr4URtWZbniQyepZj0xrqK5StUTLamJCi5tATTd6pTveEXkXqBACE}
 ```
 
-## Gajah Terbang
+## Gajah Terbang (Server Recon)
 Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertanyaan:
 1. Apa DBMS yang digunakan pada server tersebut?
    Format: string ex. MonggoDB
