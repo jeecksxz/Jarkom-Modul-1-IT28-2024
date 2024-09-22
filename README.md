@@ -182,9 +182,9 @@ Setelah memasukkan `nc 10.15.42.60 47000` ke terminal, terdapat beberapa pertany
     > Der Rote Kampfflieger
     
     ![v](https://github.com/user-attachments/assets/4b25837b-3066-42b8-bef9-21f85be7a3e0)
-
+```
 > Flag: JarkomIT{th3_fly1ng_c1rcus_0f_w4r_zakJr4URtWZbniQyepZj0xrqK5StUTLamJCi5tATTd6pTveEXkXqBACE}
-
+```
 
 ## Gajah Terbang
 Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertanyaan:
@@ -233,7 +233,8 @@ Setelah memasukkan `nc 10.15.42.60 61000` ke terminal, terdapat beberapa pertany
     ![m](https://github.com/user-attachments/assets/bb91b479-6242-43b1-b158-bffaf95593de)
     Kemudian di decrypt dari Md5 sehingga hasilnya adalah `admin1234`
 
+```
 > Flag: JarkomIT{Gy4tT_M5g_4U_GKIF5Uj2pTWNA42KXarPBk3ra5k1VbXAX8ZcWCHiZWSV4SFlGJNQ5BiD1}
-
+```
 
 
